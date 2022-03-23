@@ -1,24 +1,14 @@
 ### Hi there 👋
 
-<!--
-**cherryleafroad/cherryleafroad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer specializing in Rust, Python, C#, JavaScript, Android, Kotlin, and a bit of Unity game dev. My skillset includes making Android apps, systems programming with Rust, SQLite database (Android Roo for example), game dev using Unity (and a bit of 3d modeling thrown in there), Qt, and JNI / Kotlin.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+In my personal time:
 - 🔭 I’m currently working on KMagick / assorted projects
-- 🌱 I’m currently learning advanced Rust
+- 🌱 I’m currently learning advanced Rust and ASM
 - 💬 Ask me about anything Rust
-- 📫 How to reach me: Discord - Kobato#8392
 - ⚡ Currently interested in: Contributing to the Rust compiler
+- 😃 For fun, I like to make music (FL Studio)
+- 💻 Job offers / inquiries are welcome, please see below on how to contact me.
+- 📫 How to reach me: Discord - Kobato#8392
 
 🔗 You can view my github site [here](https://cherryleafroad.github.io/)
