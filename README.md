@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on KMagick / assorted projects
+- 🌱 I’m currently learning advanced Rust
+- 💬 Ask me about anything Rust
+- 📫 How to reach me: Discord - Kobato#8392
+- ⚡ Currently interested in: Contributing to the Rust compiler
