@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer specializing in Rust, Python, C#, JavaScript, Android, Kotlin, and a bit of Unity game dev. My skillset includes making Android apps, systems programming with Rust, SQLite database (Android Roo for example), game dev using Unity (and a bit of 3d modeling thrown in there), Qt, and JNI / Kotlin.
+I'm a software engineer specializing in Rust, Python, C#, JavaScript, Android, Kotlin, and a bit of Unity game dev. My skillset includes making Android apps, systems programming with Rust, SQLite database (Android Room for example), game dev using Unity (and a bit of 3d modeling thrown in there), Qt, and JNI / Kotlin.
 
 In my personal time:
 - 🔭 I’m currently working on KMagick / assorted projects
