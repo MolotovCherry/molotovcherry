@@ -11,4 +11,4 @@ In my personal time:
 - 💻 Job offers / inquiries are welcome, please see below on how to contact me.
 - 📫 How to reach me: Discord - Kobato#8392
 
-🔗 You can view my github site [here](https://cherryleafroad.github.io/)
+🔗 You can view my github site/blog [here](https://cherryleafroad.github.io/)
