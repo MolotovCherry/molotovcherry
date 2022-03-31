@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Kobato
 
+
+
 ## About Me
 I'm a software engineer who's very passionate about Rust. I have some experience in systems programming, Android app development, web technologies, and some game design using Unity.
 
@@ -66,3 +68,9 @@ In my personal time:
 ![Microsoft Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoftoffice)
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-05122A?style=flat&logo=teamviewer)
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
+
+## GitHub Stats
+<p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=cherryleafroad&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Cherryleafroad's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryleafroad&layout=compact&theme=tokyonight&exclude_repo=Android-ImageMagick7" alt="Cherryleafroad's top language stats" />
+</p>
