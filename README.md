@@ -5,7 +5,6 @@ I'm looking forward to contributing to Rust compiler development in the future. 
 
 In my personal time:
 - 🔭 I’m currently working on KMagick / assorted projects
-- 🌱 I’m currently learning advanced Rust and ASM
 - 💬 Ask me about anything Rust
 - 😃 For fun, I like making music (FL Studio)
 - 💻 Job offers / inquiries are welcome, please see below on how to contact me.
