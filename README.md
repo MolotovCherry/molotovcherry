@@ -56,6 +56,7 @@ In my personal time:
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)
 ![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=blender)
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache)
+![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat&logo=angularjs)
 ![Joomla](https://img.shields.io/badge/-Joomla-05122A?style=flat&logo=joomla)
