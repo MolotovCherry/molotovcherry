@@ -8,11 +8,10 @@ In my personal time:
 - 💬 Ask me about anything Rust
 - 😃 For fun, I like making music (FL Studio)
 - 💻 Job offers / inquiries are welcome, please see below on how to contact me.
-- 📫 How to reach me: Discord - Kobato#8392
 
 🔗 You can view my github site/blog [here](https://cherryleafroad.github.io/)
 
-## Tools / Languages
+## 💻 Tools / Languages
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
 ![Ruby](https://img.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)
@@ -64,7 +63,11 @@ In my personal time:
 ![TeamViewer](https://img.shields.io/badge/-TeamViewer-05122A?style=flat&logo=teamviewer)
 ![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord)
 
-## GitHub Stats
+## 📫 Contact
+- StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
+- Discord: Kobato#8392
+
+## 📈 GitHub Stats
 <p align="center">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=cherryleafroad&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Cherryleafroad's stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryleafroad&layout=compact&theme=tokyonight&exclude_repo=Android-ImageMagick7" alt="Cherryleafroad's top language stats" />
