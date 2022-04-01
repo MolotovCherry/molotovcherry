@@ -6,7 +6,11 @@ I'm looking forward to contributing to Rust compiler development in the future. 
 In my personal time:
 - 🔭 I’m currently working on KMagick / assorted projects
 - 💬 Ask me about anything Rust
-- 😃 For fun, I like making music (FL Studio), reading about science/physics/finance stuff, working with computer hardware, and learning psychology/self-improvement
+- 😃 For fun, I like:
+   - making music (FL Studio)
+   - reading about science/physics/finance stuff
+   - working with computer hardware
+   - learning psychology/self-improvement
 - 💻 For inquiries, please see below on how to contact me.
 
 🔗 You can view my github site/blog [here](https://cherryleafroad.github.io/)
