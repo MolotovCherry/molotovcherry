@@ -73,6 +73,6 @@ In my personal time:
 
 ## GitHub Stats
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=cherryleafroad&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Cherryleafroad's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryleafroad&layout=compact&theme=tokyonight&exclude_repo=Android-ImageMagick7" alt="Cherryleafroad's top language stats" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=cherryleafroad&theme=tokyonight&show_icons=true&include_all_commits=true" alt="Cherryleafroad's stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherryleafroad&layout=compact&theme=tokyonight&exclude_repo=Android-ImageMagick7&langs_count=8" alt="Cherryleafroad's top language stats" />
 </p>
