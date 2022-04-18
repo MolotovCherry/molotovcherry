@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Kobato
-I'm a software engineer who's very passionate about Rust. I have some experience in systems programming, Android app development, web technologies, and some game design using Unity.
+I'm a software engineer who's very passionate about Rust. I have experience in systems programming, Android app development, web technologies, and some game design using Unity.
 
 I'm looking forward to contributing to Rust compiler development in the future. I also love to contribute to open source projects I like.
 
