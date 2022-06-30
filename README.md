@@ -70,7 +70,7 @@ In my personal time:
 
 ## Contact
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
-- Discord: Kobato#8392
+- Discord: MolotovCherry#8392
 
 ## GitHub Stats
 <p align="center">
