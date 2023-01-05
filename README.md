@@ -1,8 +1,6 @@
 ## Hi there 👋 I'm Cherry
 I'm a software engineer who's very passionate about Rust. I have experience in systems programming, Android app development, web technologies, and some game design using Unity.
 
-I'm looking forward to contributing to Rust compiler development in the future. I also love to contribute to open source projects I like.
-
 In my personal time:
 - 🔭 I’m currently working on KMagick / assorted projects
 - 💬 Ask me about anything Rust
