@@ -5,8 +5,9 @@ In my personal time:
 - 🔭 I’m currently working on KMagick / assorted projects
 - 💬 Ask me about anything Rust
 - 😃 For fun, I like:
+   - watching anime
    - making music (FL Studio)
-   - reading about science/physics/finance stuff
+   - reading about science/physics/finance stuff/manga/light novels
    - working with computer hardware
    - learning psychology/self-improvement
 - 💻 For inquiries, please see below on how to contact me.
