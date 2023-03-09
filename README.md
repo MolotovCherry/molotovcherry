@@ -75,7 +75,7 @@ In my personal time:
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
 - Discord: [Join my server and ping me](https://discord.gg/WHnmvnDsnu)*
 
-\* I don't offer my direct username anymore cause I can't tell the difference between real friend requests and spam, but after joining you're free to add me and talk directly in DM since I'll know you're real
+\* I don't offer my direct username anymore cause I can't tell the difference between real friend requests and spam, but after joining just talk to me a little there so I know you're not a bot; you're free to add me and talk directly in DM since I'll know you're real after that
 
 ## GitHub Stats
 <p align="center">
