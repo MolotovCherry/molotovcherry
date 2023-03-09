@@ -73,7 +73,7 @@ In my personal time:
 
 ## Contact
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
-- Discord: MolotovCherry#8392
+- Discord: [Join my server and ping me](https://discord.gg/WHnmvnDsnu) (I don't offer my direct username anymore cause I can't tell the different between real friend requests and spam)
 
 ## GitHub Stats
 <p align="center">
