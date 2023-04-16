@@ -75,7 +75,7 @@ In my personal time:
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
 - Discord: [Join my server and ping me](https://discord.gg/WHnmvnDsnu)*
 
-\* I don't offer my direct username anymore cause I can't tell the difference between real friend requests and spam, but after joining just talk to me a little there so I know you're not a bot; you're free to add me and talk directly in DM. I'm sorry about the minor inconvenience; but it should not be too hard. You are also free to leave the server after adding me if you do not wish to stay in it
+\* I don't offer my direct username anymore cause I can't tell the difference between real friend requests and spam; after joining just talk to me a little there so I know you're not a bot; you're free to add me and talk directly in DM right after. I'm sorry about the minor inconvenience. You are free to leave the server after adding me if you do not wish to stay in it
 
 ## GitHub Stats
 <p align="center">
