@@ -2,7 +2,7 @@
 I'm a software engineer who's very passionate about Rust. I have experience in systems programming, Android app development, web technologies, and some game design using Unity.
 
 In my personal time:
-- 🔭 I’m currently working on KMagick / assorted projects
+- 🔭 I’m currently working on assorted projects
 - 💬 Ask me about anything Rust
 - 😃 For fun, I like:
    - watching anime
