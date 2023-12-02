@@ -73,9 +73,7 @@ In my personal time:
 
 ## Contact
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
-- Discord: [Join my server and ping me](https://discord.gg/WHnmvnDsnu)*
-
-\* I don't offer my direct username anymore cause I can't tell the difference between real friend requests and spam; after joining just talk to me a little there so I know you're not a bot; you're free to add me and talk directly in DM right after. I'm sorry about the minor inconvenience. You are free to leave the server after adding me if you do not wish to stay in it
+- Discord: /molotov/cherry/ (remove all forward slashes)
 
 ## GitHub Stats
 <p align="center">
