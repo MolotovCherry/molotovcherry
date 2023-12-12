@@ -74,7 +74,7 @@ In my personal time:
 ## Contact
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
 - Discord: /molotov/cherry/ (remove all forward slashes) or [join my server](https://discord.com/invite/pDDt78wYQy).
-  - If I don't accept your request, you might want to contact me on server instead; I get spam requests and don't always know when a request is legitimate; even if adding me directly fails, pinging me in my server always works.
+  - If I don't accept your request, you might want to contact me on server instead; I get spam requests and don't always know when a request is legitimate; even if adding me directly fails, joining and pinging me in my server always works.
 
 ## GitHub Stats
 <p align="center">
