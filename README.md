@@ -73,7 +73,7 @@ In my personal time:
 
 ## Contact
 - StackOverflow: [Kobato](https://stackoverflow.com/users/9423933/kobato)
-- Discord: /molotov/cherry/ (remove all forward slashes)
+- Discord: /molotov/cherry/ (remove all forward slashes) or [join my server](https://discord.com/invite/pDDt78wYQy). (If I don't accept your request, you might want to contact me on server instead; I get spam requests and don't always know when a request is legitimate)
 
 ## GitHub Stats
 <p align="center">
