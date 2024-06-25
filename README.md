@@ -12,8 +12,6 @@ In my personal time:
    - learning psychology/self-improvement
 - 💻 For inquiries, please see below on how to contact me.
 
-🔗 You can view my github site/blog [here](https://molotovcherry.github.io/)
-
 ## Tools / Languages
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
