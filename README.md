@@ -12,6 +12,12 @@ In my personal time:
    - learning psychology/self-improvement
 - 💻 For inquiries, please see below on how to contact me.
 
+## Statement on AI
+
+I am anti-AI. My projects / PRs do not and never will contain AI written code. All code written by me is written solely by me without any AI assistance.
+
+Additionally, I do not accept PRs which contain any AI written code or AI written issue reports, so please do not send those.
+
 ## Tools / Languages
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)
