@@ -14,9 +14,7 @@ In my personal time:
 
 ## Statement on AI
 
-I am anti-AI. My projects / PRs do not and never will contain AI written code. All code written by me is written solely by me without any AI assistance.
-
-Additionally, I do not accept PRs which contain any AI written code or AI written issue reports, so please do not send those.
+Unless a project of mine specifically states it in the README, it does not contain AI written code nor accept AI contributions
 
 ## Tools / Languages
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)
